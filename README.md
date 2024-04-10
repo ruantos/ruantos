@@ -2,9 +2,11 @@
 
 ## Olá, me chamo Juan! 👋
 <div>
-    <p>- 🎓 Sou estudante de Sistemas de informação na UFRPE </p>
-    <p>- 🤖 Interessado em Ciências de Dados e Aprendizado de Máquina </p>
-    <p>- ⛏️ Possuo conhecimento em webscraping </p>   
+    <ul>
+        <li> 🎓 Sou estudante de Sistemas de informação na UFRPE </li>
+        <li> 🤖 Interessado em Ciências de Dados e Aprendizado de Máquina </li>
+        <li> ⛏️ Possuo conhecimento em webscraping </li>   
+    </ul>
 </div>
 
 ### Tecnologias:
